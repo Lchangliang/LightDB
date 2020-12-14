@@ -1,0 +1,1 @@
+{ BasedOnStyle: Google, IndentWidth: 2,AccessModifierOffset: -2,TabWidth: 4,ColumnLimit: 120}
